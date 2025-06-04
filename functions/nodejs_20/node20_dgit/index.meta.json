@@ -1,0 +1,16 @@
+{
+  "apiID": "create31604801__function_aadih75trigjs",
+  "apiName": "node20_dgit",
+  "label": {
+    "zh_CN": "node20_dgit",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
